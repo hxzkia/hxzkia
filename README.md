@@ -20,7 +20,7 @@ Here are some of the other academic projects I've worked on, showcasing my diver
 
   * A college project simulating an e-commerce/inventory management system built with Java and SQL, demonstrating core OOP principles.
 
-* [**Salary Slip Generator App**](https://github.com/hxzkia/Object-Oriented-Programming/tree/main/SalarySlipApp) 💰📄
+* [**Salary Slip Generator App**](https://github.com/hxzkia/Visual-Programming/tree/main/SalarySlipApp) 💰📄
 
   * A desktop application (Windows Forms) developed in C# for generating and printing employee salary slips, including features for employee, department, and job management.
 
