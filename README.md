@@ -51,5 +51,5 @@ I'd love to connect and discuss opportunities or collaborate on interesting proj
 [<img align="left" alt="Hizkia | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 [instagram]: https://www.instagram.com/hxzkia/
-[linkedin]: https://www.linkedin.com/in/hizkia-lie-126843333/
+[linkedin]: https://www.linkedin.com/in/hizkia-lie
 [whatsapp]: https://wa.me/082264882822
