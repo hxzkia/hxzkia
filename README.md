@@ -16,29 +16,29 @@ Here are some of the other academic projects I've worked on, showcasing my diver
 
 ### ☕ Object-Oriented Programming (OOP)
 
-* [**myToko**](https://github.com/hxzkia/Object-Oriented-Programming/tree/main/myToko) 🛍️💻
+* [**myToko**](https://github.com/hxzkia/Object-Oriented-Programming/tree/main) 🛍️💻
 
   * A college project simulating an e-commerce/inventory management system built with Java and SQL, demonstrating core OOP principles.
 
-* [**Salary Slip Generator App**](https://github.com/hxzkia/Visual-Programming/tree/main/SalarySlipApp) 💰📄
+* [**Salary Slip Generator App**](https://github.com/hxzkia/Visual-Programming/tree/main) 💰📄
 
   * A desktop application (Windows Forms) developed in C# for generating and printing employee salary slips, including features for employee, department, and job management.
 
 ### 🌐 Web Programming
 
-* [**Carousale**](https://github.com/hxzkia/Web-Programming/tree/main/carousale) 🚗🌐
+* [**Carousale**](https://github.com/hxzkia/Web-Programming/tree/main) 🚗🌐
 
   * A static web project developed with HTML, CSS, and JavaScript, designed to simulate a car and spare parts selling platform. (Note: This is a front-end demonstration with no working API features).
 
 ### 🤝 Client-Server Programming
 
-* [**Appointment System**](https://github.com/hxzkia/Client-Server-Programming/tree/main/AppointmentSystem) 🗓️👨‍⚕️
+* [**Appointment System**](https://github.com/hxzkia/Client-Server-Programming/tree/main) 🗓️👨‍⚕️
 
   * A Visual Basic .NET desktop application designed as an appointment management system for doctors and patients, including scheduling and reporting features.
 
 ### 🔒 Cryptography and Network Security
 
-* [**Hello Cipher**](https://github.com/hxzkia/Cryptography-and-Network-Security/tree/main/HelloCipher) 🔑🔐
+* [**Hello Cipher**](https://github.com/hxzkia/Cryptography-and-Network-Security/tree/main) 🔑🔐
 
   * A Visual Basic .NET application demonstrating fundamental cryptographic algorithms, featuring Caesar Cipher, Decimation Cipher, and Knapsack cipher for encryption and decryption.
 
