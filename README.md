@@ -14,6 +14,12 @@ You'll find my primary data engineering project here:
 
 Here are some of the other academic projects I've worked on, showcasing my diverse programming skills:
 
+### 🤖 Machine Learning
+
+* [**Skinfriend**](https://github.com/firza16/Capstone-Project-Skinfriend) 🧑‍🔬✨
+
+  * A collaborative project where I built the **machine learning model for face type detection**. This application aims to help users identify their face type for skincare recommendations.
+
 ### ☕ Object-Oriented Programming (OOP)
 
 * [**myToko**](https://github.com/hxzkia/Object-Oriented-Programming/tree/main) 🛍️💻
