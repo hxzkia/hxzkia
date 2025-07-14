@@ -2,6 +2,14 @@
 
 Welcome to my GitHub portfolio! I'm a passionate student actively building my skills in various programming domains.
 
+## About Me 🚀
+
+My name is **Hizkia**, and I am currently an aspiring Data Engineer Intern. I'm keen on transforming raw data into actionable insights and building robust data pipelines. While my journey in data engineering is still in its early stages, I'm continuously expanding my knowledge and practical experience.
+
+You'll find my primary data engineering project here:
+
+* [**Data_Bike_Analysis**](https://github.com/hxzkia/Data_Bike_Analysis) 📈🚲 - My initial dive into data analysis, focusing on bike-related datasets.
+
 ## My Projects Portfolio 💡
 
 Here are some of the other academic projects I've worked on, showcasing my diverse programming skills:
